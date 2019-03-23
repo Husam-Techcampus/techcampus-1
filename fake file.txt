@@ -1,2 +1,6 @@
 here is the first commit
+<<<<<<< HEAD
 to check conflicts with side branch 
+=======
+here is a moification in side branch and should appear a conflict when merge with master branch 
+>>>>>>> side
